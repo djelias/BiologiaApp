@@ -16,5 +16,9 @@
             android:id="@+id/nav_especimen"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_especimen" />
+        <item
+            android:id="@+id/nav_taxonomia"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_taxonomia" />
     </group>
 </menu>

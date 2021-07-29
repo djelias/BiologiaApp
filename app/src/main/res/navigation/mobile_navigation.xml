@@ -22,4 +22,10 @@
         android:name="com.example.biologiaapp.ui.especimen.EspecimenFragment"
         android:label="@string/menu_especimen"
         tools:layout="@layout/fragment_especimen" />
+
+    <fragment
+        android:id="@+id/nav_taxonomia"
+        android:name="com.example.biologiaapp.ui.taxonomia.TaxonomiaFragment"
+        android:label="@string/menu_taxonomia"
+        tools:layout="@layout/fragment_taxonomia" />
 </navigation>

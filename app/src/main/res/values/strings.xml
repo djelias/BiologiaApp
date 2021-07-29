@@ -10,4 +10,5 @@
     <string name="menu_inicio">Inicio</string>
     <string name="menu_coleccion">Coleccion</string>
     <string name="menu_especimen">Especimen</string>
+    <string name="menu_taxonomia">Taxonomia</string>
 </resources>
